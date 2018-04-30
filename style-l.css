@@ -206,7 +206,7 @@ nav li a:hover {
 
 .post {
     float: left;
-    width: 400px;
+    width:900px;
     margin-right: 30px;
     margin-bottom: 30px;
 }
@@ -221,13 +221,13 @@ nav li a:hover {
 
 /* */
 
-.post+.post+.post+.post+.post+.post+.post+.post {
+.post+.post+.post+.post+.post+.post {
     margin-right: 0;
 }
 
 
 .post img {
-    width: 400px;
+    width: 900px;
     height: auto;
     vertical-align: bottom;
     border: none;
